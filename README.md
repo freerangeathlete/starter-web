@@ -5,6 +5,7 @@ This is a simple website project
 Don't take this seriously. Adding line for rebase example.
 
 More changes from myfeature branch too.
+Another emergency fix
 
 ## Introduction
 
