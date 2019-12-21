@@ -4,6 +4,8 @@ This is a simple website project
 
 Don't take this seriously. Adding line for rebase example.
 
+More changes from myfeature branch too.
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using a web project.
