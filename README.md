@@ -15,3 +15,7 @@ Some purpose
 Deployment instructions
 
 ##How To Contribute
+
+###Copyright
+
+Some copyright notice
