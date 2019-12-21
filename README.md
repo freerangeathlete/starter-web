@@ -16,6 +16,8 @@ Deployment instructions
 
 ##How To Contribute
 
+Please fork this repository and then issue pull requests for review
+
 ###Copyright
 
 Some copyright notice
