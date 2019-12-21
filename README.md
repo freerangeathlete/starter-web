@@ -24,4 +24,4 @@ Please fork this repository and then issue pull requests for review
 
 ###Copyright
 
-Some copyright notice
+Some copyright notice, @2019
